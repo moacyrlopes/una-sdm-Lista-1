@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmlcep>
+  <cep>30850-620</cep>
+  <logradouro>Rua Nelson Soares</logradouro>
+  <complemento></complemento>
+  <unidade></unidade>
+  <bairro>Dom Bosco</bairro>
+  <localidade>Belo Horizonte</localidade>
+  <uf>MG</uf>
+  <estado>Minas Gerais</estado>
+  <regiao>Sudeste</regiao>
+  <ibge>3106200</ibge>
+  <gia></gia>
+  <ddd>31</ddd>
+  <siafi>4123</siafi>
+</xmlcep>
